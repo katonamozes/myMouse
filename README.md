@@ -1,5 +1,5 @@
 # myMouse
-A mouse that I find comfortable because it has a longer back to support my hand. It also doesn't have that "ergonomic" shape which I find doesn't fit every hand and you can't use it with your left hand.
+A mouse that I find comfortable because it has a longer back to support my hand. It also doesn't have that "ergonomic" shape which I find doesn't fit every hand and you can't use it with your left hand. I made this because the mouse that I have now is starting to fail and I wanted to have one that people would notice. I didn't want to spend a fortune and making it myself just gives it that personal touch that I wanted.
 
 This mouse uses the bambulab wireless mouse kit: https://eu.store.bambulab.com/nl/products/wireless-mouse-components-kit-002?id=47895575920988 
 
