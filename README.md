@@ -5,3 +5,5 @@ This mouse uses the bambulab wireless mouse kit: https://eu.store.bambulab.com/n
 
 <img width="836" height="656" alt="image" src="https://github.com/user-attachments/assets/bdfc6d91-8d87-49c2-98c8-da87a24dcda4" />
 
+Preferable you should print it in petg but pla is fine as well. Here is the tutorial on how to put it together (they use a different body) **https://www.youtube.com/watch?v=lkOg_X4qjW8**
+
