@@ -10,3 +10,6 @@ Preferably, you should print it in petg but pla is fine as well. Here is the tut
 The printfiles.3mf is somewhat optimised with supports and stuff. The printfiles.step is just the components.
 <img width="704" height="490" alt="image" src="https://github.com/user-attachments/assets/0dd3a5f1-d115-4698-8dc4-ffab64da1565" />
 
+BOM:
+Bambu Lab Wireless Mouse Kit -> https://eu.store.bambulab.com/nl/products/wireless-mouse-components-kit-002?id=47895575920988
+About 70-80 grams of 3d printer filament -> buy at a store of preference
